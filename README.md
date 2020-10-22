@@ -26,17 +26,23 @@
   <a href="https://reactjs.org">
     <img align="left" alt="React JS" height="34px" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
   </a>
+  <a src="https://jestjs.io/">
+     <img align="left" alt="Jest" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jest.svg" />
+  </a>
+  <a src="https://www.mongodb.com/">
+     <img align="left" alt="Mongodb" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_mongo.svg" />
+  </a>
+  <a src="#">
+     <img align="left" alt="SQL" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_sql.svg" />
+  </a>
+  <a src="https://www.docker.com/">
+     <img align="left" alt="Docker" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
+  </a>
   <a href="https://git-scm.com">
     <img align="left" alt="GitHub" height="34px" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   </a>
   <a src="https://ohmyz.sh">
      <img align="left" alt="Bash" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  </a>
-  <a src="https://www.docker.com/">
-     <img align="left" alt="Docker" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
-  </a>
-  <a src="https://jestjs.io/">
-     <img align="left" alt="Jest" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jest.svg" />
   </a>
   <a src="https://www.jenkins.io/">
      <img align="left" alt="Jenkins" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
@@ -49,4 +55,4 @@
 <br/>
 <br/>
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
