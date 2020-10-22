@@ -17,34 +17,34 @@
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/TypeScript">
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+    <img align="left" alt="JavaScript" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   </a>
   <a href="https://pt-br.reactjs.org">
-    <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+    <img align="left" alt="React JS" height="34px" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
   </a>
   <a href="https://nodejs.org/en/">
-    <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    <img align="left" alt="Node.js" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
   </a>
   <a href="https://code.visualstudio.com">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    <img align="left" alt="Visual Studio Code" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
   <a href="https://git-scm.com">
-    <img align="left" alt="GitHub" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+    <img align="left" alt="GitHub" height="34px" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   </a>
   <a src="https://ohmyz.sh">
-     <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+     <img align="left" alt="Bash" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
   <a src="https://www.docker.com/">
-     <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
+     <img align="left" alt="Docker" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
   </a>
   <a src="https://jestjs.io/">
-     <img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jest.svg" />
+     <img align="left" alt="Jest" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jest.svg" />
   </a>
   <a src="https://www.jenkins.io/">
-     <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
+     <img align="left" alt="Jenkins" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
   </a>
   <a src="https://aws.amazon.com/">
-     <img align="left" alt="Amazon" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" />
+     <img align="left" alt="Amazon" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" />
   </a>
 </div>
 
@@ -64,7 +64,7 @@
 
 
 <div align="center" >
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=PedroSantos42&show_icons=true&theme=algolia&count_private=true" alt="Pedro Santos's github stats" />
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=PedroSantos42&show_icons=true&theme=algolia&count_private=true" alt="Pedro Santos's github stats" />
     <ul align="left">
     <li align="left">Thanks for visiting :smiley:</li>
   </ul>
