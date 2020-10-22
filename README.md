@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/TypeScript">
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" />
   </a>
   <a href="https://pt-br.reactjs.org">
     <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
@@ -37,8 +37,16 @@
   <a src="https://www.docker.com/">
      <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
   </a>
+  <a src="https://jestjs.io/">
+     <img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jest.svg" />
+  </a>
+  <a src="https://www.jenkins.io/">
+     <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
+  </a>
+  <a src="https://aws.amazon.com/">
+     <img align="left" alt="Amazon" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" />
+  </a>
 </div>
-  
 
  <br/><br/>
 
