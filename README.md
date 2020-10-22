@@ -2,10 +2,10 @@
 
 ### Hello, how you doing? `I'm Pedro,` welcome to my profile :metal:
 
-- :computer: I’m currently working at [Accenture](https://www.accenture.com/) as a Back-End developer.
-- :rocket: I'm always learning and my focus now is JavaScript | TypeScript | Node.js | React | Serverless.
-- :arrow_forward: Take a look in my repositories and clone one you like to check it running.
 - :mortar_board: I'm graduated in Systems Analysis and Development at [FICR](https://ficr.catolica.edu.br/).
+- :computer: Currently working at [Accenture](https://www.accenture.com/) as a Back-End developer.
+- :rocket: I'm always learning and my focus now is JavaScript | TypeScript | Node.js | React | Serverless.
+- :octocat: Take a look in my repositories and clone one you like to check it running.
 - I :green_heart: to code.
 
 <br />
@@ -58,11 +58,11 @@
 [github]: https://github.com/PedroSantos42
 [outlook]: mailto:pedro_absantos@outlok.com
 
-
+/*
 <div align="center" >
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=PedroSantos42&show_icons=true&theme=algolia&count_private=true" alt="Pedro Santos's github stats" />
     <ul align="left">
     <li align="left">Thanks for visiting :smiley:</li>
   </ul>
 </div>
- 
+ */
