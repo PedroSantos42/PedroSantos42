@@ -4,7 +4,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <div id="profile">
 
@@ -50,8 +49,6 @@
   </a>
 </div>
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
