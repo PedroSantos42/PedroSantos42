@@ -55,4 +55,17 @@
 <br/>
 <br/>
 
-<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+<div id="stats">
+  
+  <style>
+
+    #stats {
+      align: center;
+    }
+
+  </style>
+
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+
+</div>
+
