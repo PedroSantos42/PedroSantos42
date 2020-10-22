@@ -1,5 +1,7 @@
 <div align="right" id="animations">
-  <img align="right" width="350" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
+  <div display="block">
+    <img align="right" width="350" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
+  </div>
 
   <br />
 
