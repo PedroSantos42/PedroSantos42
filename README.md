@@ -1,5 +1,5 @@
 <div id="hacker-gif">
-  <img align="right" width="350" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
+  <img align="right" width="300" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 </div>
 
 <div id="profile">
@@ -14,15 +14,15 @@
 
 </div>
 
-<br />
+<div id="status">
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
 
-<br />
+</div>
 
 ## Languages and Tools:
 
-<div align="left" id="technologies">
+<div id="technologies">
   <a href="https://www.typescriptlang.org/">
     <img align="left" alt="JavaScript" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   </a>
