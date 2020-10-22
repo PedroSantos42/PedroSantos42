@@ -49,32 +49,6 @@
 <br/>
 <br/>
 
-## Badges:
-
-<div id="badges">
-  <a href="aws-cpp">
-    <img align="left" alt="Amazon Cloud Practitioner" height="34px" width="34px" src="" />
-  </a>
-</div>
-
-<br/>
-<br/>
-
-
-
-
-
-<p align="center">Contact me:</p>
-<br />
-<p align="center">
-  <a
-    href="mailto:pedro_absantos@outlook.com" 
-    alt="Outlook"
-    target="blank"
-  >
-  
-  <!-- <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmaill&logoColor=white" /> -->
-    
+<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
-  </a>
 </p>
