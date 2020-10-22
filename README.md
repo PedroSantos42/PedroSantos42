@@ -55,4 +55,4 @@
 <br/>
 <br/>
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+<img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
