@@ -1,4 +1,4 @@
-<p align="right">
+<p align="right" display="inline">
   <img width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 </p>
 
@@ -46,17 +46,6 @@
   </a>
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
