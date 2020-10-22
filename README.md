@@ -1,5 +1,5 @@
 <div id="hacker-gif">
-  <img align="right" width="360" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
+  <img align="right" width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 </div>
 
 <br/>
@@ -46,6 +46,33 @@
   </a>
   <a src="https://www.jenkins.io/">
      <img align="left" alt="Jenkins" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
+  </a>
+</div>
+
+## Contact me:
+<div id="contact">
+  <a
+    href="mailto:pedroabs.dev42@gmail.com" 
+    alt="Gmail"
+    target="blank"
+  >
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
+  </a>
+
+  <a
+    href="mailto:pedro_absantos@outlook.com" 
+    alt="Outlook"
+    target="blank"
+  >
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />
+  </a>
+
+  <a
+    href="https://www.linkedin.com/in/pedro-santos-1562b015b/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />
   </a>
 </div>
 
