@@ -1,5 +1,5 @@
 <div display="block">
-  <img align="right" width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
+  <img align="right" width="350" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 </div>
 
 <div align="left" id="content">
@@ -17,7 +17,7 @@
 
   <br />
 
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
 
 <br />
 
@@ -52,17 +52,3 @@
      <img align="left" alt="Amazon" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" />
   </a>
 </div>
-
- <br/><br/>
-
-
-### Connect with me: 
-[<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="haryel gillet ramalho | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />][github]
-[<img align="left" alt="haryel gillet ramalho | E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/pedro-santos-1562b015b
-[github]: https://github.com/PedroSantos42
-[outlook]: mailto:pedro_absantos@outlok.com
