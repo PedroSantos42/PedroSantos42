@@ -38,21 +38,43 @@
   <a src="https://www.docker.com/">
      <img align="left" alt="Docker" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
   </a>
-  <a href="https://git-scm.com">
-    <img align="left" alt="GitHub" height="34px" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  </a>
   <a src="https://ohmyz.sh">
      <img align="left" alt="Bash" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
   <a src="https://www.jenkins.io/">
      <img align="left" alt="Jenkins" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
   </a>
-  <a src="https://aws.amazon.com/">
-     <img align="left" alt="Amazon" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" />
+</div>
+
+<br/>
+<br/>
+
+## Badges:
+
+<div id="badges">
+  <a href="aws-cpp">
+    <img align="left" alt="Amazon Cloud Practitioner" height="34px" width="34px" src="" />
   </a>
 </div>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+
+
+
+
+<p align="center">Contact me:</p>
+<br />
+<p align="center">
+  <a
+    href="mailto:pedro_absantos@outlook.com" 
+    alt="Outlook"
+    target="blank"
+  >
+  
+  <!-- <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmaill&logoColor=white" /> -->
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
+  </a>
+</p>
