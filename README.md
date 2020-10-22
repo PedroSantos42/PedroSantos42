@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/TypeScript">
-    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_typescript_official.svg" />
+    <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   </a>
   <a href="https://pt-br.reactjs.org">
     <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
