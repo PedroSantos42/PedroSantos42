@@ -14,12 +14,6 @@
 
 </div>
 
-<div id="status">
-
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
-
-</div>
-
 ## Languages and Tools:
 
 <div id="technologies">
@@ -51,3 +45,8 @@
      <img align="left" alt="Amazon" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_aws.svg" />
   </a>
 </div>
+
+<br/>
+<br/>
+
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
