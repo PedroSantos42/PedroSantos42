@@ -3,7 +3,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div id="profile">
 
@@ -49,11 +48,7 @@
   </a>
 </div>
 
-## Badges:
-<p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a2762e19-acba-431c-887f-7974feb53f92" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
-</p>
-
+<br/>
 <br/>
 <br/>
 
