@@ -49,35 +49,11 @@
   </a>
 </div>
 
-## Contact me:
-<div id="contact">
-  <a
-    href="mailto:pedroabs.dev42@gmail.com" 
-    alt="Gmail"
-    target="blank"
-  >
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
-  </a>
+## Badges:
+<p align="center">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a2762e19-acba-431c-887f-7974feb53f92" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+</p>
 
-  <a
-    href="mailto:pedro_absantos@outlook.com" 
-    alt="Outlook"
-    target="blank"
-  >
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />
-  </a>
-
-  <a
-    href="https://www.linkedin.com/in/pedro-santos-1562b015b/" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />
-  </a>
-</div>
-
-<br/>
-<br/>
 <br/>
 <br/>
 
