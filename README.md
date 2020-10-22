@@ -1,13 +1,13 @@
 <img align="right" width="300" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 
-### Hi there `I'm Pedro,` welcome to my profile 👋
+### Hello, how you doing? `I'm Pedro,` welcome to my profile :metal:
 
-- :laptop: I’m currently working at Accenture as a Back-End developer [Accenture](https://rocketseat.com.br).
-- :rocket: I'm always learning and my focus now is JavaScript | Node.js | React | TypeScript | Serverless.
-    - Check my [profile](https://app.rocketseat.com.br/me/pedro-santos-1582598998) in Rocketseat App to more infos about i'm doing in Rocektseat course. 
+- :computer: I’m currently working at Accenture as a Back-End developer [Accenture](https://www.accenture.com/).
+- :rocket: I'm always learning and my focus now is JavaScript | TypeScript | Node.js | React | Serverless.
+- :arrow_forward: Take a look in my repositories and clone one you like to check it running.
 - :mortar_board: I'm graduated in Systems Analysis and Development at [FICR](https://ficr.catolica.edu.br/).
 
-- Lover of coding :exploding_head:
+- I :green_heart: to code.
 
 <br />
 
@@ -19,14 +19,11 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/TypeScript">
     <img align="left" alt="JavaScript" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   </a>
+  <a href="https://nodejs.org/en/">
+    <img align="left" alt="Node.js" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_node.svg" />
+  </a>
   <a href="https://pt-br.reactjs.org">
     <img align="left" alt="React JS" height="34px" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
-  </a>
-  <a href="https://nodejs.org/en/">
-    <img align="left" alt="Node.js" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img align="left" alt="Visual Studio Code" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
   <a href="https://git-scm.com">
     <img align="left" alt="GitHub" height="34px" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
