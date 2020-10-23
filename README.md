@@ -1,3 +1,9 @@
+<br clear="left"/>
+
+<div id="hacker-gif">
+  <img align="right" width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
+</div>
+
 <div id="profile">
 
   ### Hey, how you doing? `I'm Pedro,` welcome to my profile :metal:
@@ -8,12 +14,6 @@
   - :octocat: Take a look in my repositories and clone one you like to check it running.
   - I :green_heart: to code.
 
-</div>
-
-<br clear="left"/>
-
-<div id="hacker-gif">
-  <img align="right" width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 </div>
 
 ## Languages and Tools:
@@ -54,9 +54,6 @@
 ## Badges:
 <div id="badges">
   <p align="center">
-    <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
-    <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
-
     <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
     <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
   </p>
