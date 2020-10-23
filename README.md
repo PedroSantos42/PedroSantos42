@@ -1,7 +1,3 @@
-<div id="hacker-gif">
-  <img align="right" width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
-</div>
-
 <div id="profile">
 
   ### Hey, how you doing? `I'm Pedro,` welcome to my profile :metal:
@@ -12,6 +8,12 @@
   - :octocat: Take a look in my repositories and clone one you like to check it running.
   - I :green_heart: to code.
 
+</div>
+
+<br clear="left"/>
+
+<div id="hacker-gif">
+  <img align="right" width="400" src="https://media1.tenor.com/images/512cf2f5b4747e79fac1e915d29124ec/tenor.gif?itemid=15448882" />
 </div>
 
 ## Languages and Tools:
@@ -60,8 +62,7 @@
   </p>
 </div>
 
-<br/>
-<br/>
+<br clear="left"/>
 
 <p align="center">  
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
