@@ -17,8 +17,8 @@
 ## Languages and Tools:
 
 <div id="technologies">
-  <a>
-    <img align="left" margin="8px" alt="JavaScript" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+  <a href="#">
+    <img align="left" alt="JavaScript" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   </a>
   <a href="https://nodejs.org/en/">
     <img align="left" alt="Node.js" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_node.svg" />
