@@ -24,24 +24,24 @@
     <img align="left" alt="Node.js" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_node.svg" />
   </a>
   <a href="https://reactjs.org">
-    <img align="left" alt="React JS" height="34px" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+    <img align="left" alt="React JS" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_reactjs.svg" />
   </a>
-  <a src="https://jestjs.io/">
+  <a href="https://jestjs.io/">
      <img align="left" alt="Jest" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jest.svg" />
   </a>
-  <a src="https://www.mongodb.com/">
+  <a href="https://www.mongodb.com/">
      <img align="left" alt="Mongodb" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_mongo.svg" />
   </a>
-  <a src="#">
+  <a href="#">
      <img align="left" alt="SQL" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_sql.svg" />
   </a>
-  <a src="https://www.docker.com/">
+  <a href="https://www.docker.com/">
      <img align="left" alt="Docker" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" />
   </a>
-  <a src="https://ohmyz.sh">
+  <a href="https://ohmyz.sh">
      <img align="left" alt="Bash" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
   </a>
-  <a src="https://www.jenkins.io/">
+  <a href="https://www.jenkins.io/">
      <img align="left" alt="Jenkins" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
   </a>
 </div>
@@ -51,6 +51,16 @@
 
 ## Badges:
 <div id="badges">
+  <p align="center">
+    <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
+    <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
+  </p>
+
+  <p align="center">
+    <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
+    <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
+  </p>
+
   <p align="center">
     <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
     <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
