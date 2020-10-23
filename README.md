@@ -42,26 +42,20 @@
   <a href="https://www.jenkins.io/">
      <img align="left" alt="Jenkins" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_jenkins.svg" />
   </a>
+  <a href="https://www.java.com/">
+     <img align="left" alt="Java" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_java.svg" />
+  </a>
 </div>
 
 <br clear="left"/>
 
 ## Badges:
 <div id="badges">
-  <p align="center">
-    <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
-      <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
-      <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
-    </a>
-  </p>
+  <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
+    <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
+  </a>
 </div>
 
 <br clear="left"/>
 
-<p align="center">  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&count_private=true&show_icons=true&layout=compact&theme=radical" alt="Pedro Santos's github stats" />
-</p>
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&show_icons=true&langs_count=6&hide=java&theme=react" alt="Pedro Santos's github stats" />
