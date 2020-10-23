@@ -46,6 +46,7 @@
   </a>
 </div>
 
+<br clear="left"/>
 
 ## Badges:
 <div id="badges">
