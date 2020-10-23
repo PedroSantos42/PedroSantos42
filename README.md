@@ -51,17 +51,10 @@
 
 ## Badges:
 <div id="badges">
-  <p align="center" display="inline-block">
+  <p align="center">
     <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
     <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
-  </p>
 
-  <p align="center" display="inline-block">
-    <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
-    <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
-  </p>
-
-  <p align="center" display="inline-block">
     <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
     <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
   </p>
