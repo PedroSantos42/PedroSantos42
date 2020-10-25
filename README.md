@@ -15,7 +15,7 @@
 ## Languages and Tools:
 
 <div id="technologies">
-  <a href="#">
+  <a href="https://www.typescriptlang.org/">
     <img align="left" alt="JavaScript" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
   </a>
   <a href="https://nodejs.org/en/">
@@ -30,7 +30,7 @@
   <a href="https://www.mongodb.com/">
      <img align="left" alt="Mongodb" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_mongo.svg" />
   </a>
-  <a href="#">
+  <a href="https://en.wikipedia.org/wiki/SQL">
      <img align="left" alt="SQL" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_sql.svg" />
   </a>
   <a href="https://www.docker.com/">
@@ -38,6 +38,12 @@
   </a>
   <a href="https://www.serverless.com/">
      <img align="left" alt="Serverless" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_serverless.svg" />
+  </a>
+  <a href="https://www.npmjs.com/">
+     <img align="left" alt="NPM" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_npm.svg" />
+  </a>
+  <a href="https://yarnpkg.com/">
+     <img align="left" alt="Yarn" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_yarn.svg" />
   </a>
   <a href="https://ohmyz.sh">
      <img align="left" alt="Bash" height="34px" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -47,7 +53,7 @@
   </a>
   <a href="https://www.java.com/">
      <img align="left" alt="Java" height="34px" width="34px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/7dee48469efc251a6426e81c788482e2734f7b7d/icons/file_type_java.svg" />
-  </a>  
+  </a>
 </div>
 
 <br clear="left"/>
