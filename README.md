@@ -7,7 +7,7 @@
   - :mortar_board: I'm graduated in Systems Analysis and Development at [FICR](https://ficr.catolica.edu.br/).
   - :computer: Currently working at [Accenture](https://www.accenture.com/) as a Node.js Back-End developer.
   - :rocket: I'm always learning and my focus now is JavaScript | Node.js | React | Serverless.
-  - :octocat: Take a look in my repositories and clone one you like to check it running.
+  - :octocat: Take a look at my repositories and clone one you like to check it running.
   - I :green_heart: to code.
 
 </div>
@@ -58,7 +58,7 @@
 
 <br clear="left"/>
 
-## Badges:
+## Badges and Certifications:
 <div id="badges">
   <a href="https://www.youracclaim.com/badges/a2762e19-acba-431c-887f-7974feb53f92/public_url">
     <img src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png">
