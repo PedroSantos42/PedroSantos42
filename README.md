@@ -69,6 +69,6 @@
 
 <div id="stats">
   <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&show_icons=true&langs_count=6&hide=java&theme=react" alt="Pedro Santos's github stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSantos42&show_icons=true&langs_count=5&theme=react" alt="Pedro Santos's github stats" />
   </p>
 </div>
