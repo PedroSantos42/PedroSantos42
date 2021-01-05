@@ -5,8 +5,8 @@
   ### Hey, how you doing? `I'm Pedro,` welcome to my profile :metal:
 
   - :mortar_board: I'm graduated in Systems Analysis and Development at [FICR](https://ficr.catolica.edu.br/).
-  - :computer: Currently working at [Accenture](https://www.accenture.com/) as a Node.js Back-End developer.
-  - :rocket: I'm always learning and my focus now is JavaScript | Node.js | React | Serverless.
+  - :computer: Currently working at [Accenture](https://www.accenture.com/) as a Software Developer.
+  - :rocket: I'm always learning and my focus now is JavaScript | Node.js | React | AWS.
   - :octocat: Take a look at my repositories and clone one you like to check it running.
   - I :green_heart: to code.
 
