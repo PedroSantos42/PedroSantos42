@@ -6,7 +6,7 @@
 
   - :mortar_board: I'm graduated in Systems Analysis and Development at [FICR](https://ficr.catolica.edu.br/).
   - :computer: Currently working at [Accenture](https://www.accenture.com/) as a Software Developer.
-  - :rocket: I'm always learning and my focus now is JavaScript | Node.js | React | AWS.
+  - :rocket: I'm always learning and my focus now is Java | React | AWS.
   - :octocat: Take a look at my repositories and clone one you like to check it running.
   - I :green_heart: to code.
 
