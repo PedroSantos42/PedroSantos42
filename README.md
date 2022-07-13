@@ -5,7 +5,7 @@
   ### Hey, how you doing? `I'm Pedro,` welcome to my profile :metal:
 
   - :mortar_board: I'm graduated in Systems Analysis and Development at [FICR](https://ficr.catolica.edu.br/).
-  - :computer: Currently working at [Daitan](https://daitangroup.com/) as a Software Developer.
+  - :computer: Currently working at [Encora Brazil](https://www.encora.com/) as a Software Developer.
   - :rocket: I'm always learning and my focus now is Java | React | AWS.
   - :octocat: Take a look at my repositories and clone one you like to check it running.
   - I :green_heart: to code.
